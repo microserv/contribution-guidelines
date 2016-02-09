@@ -1,8 +1,8 @@
 # Contribution guidelines
-- [How to write git commit messages](#commit-messages)
+- [How to write commit messages](#commit-messages)
 - [Coding rules](#rules)
 
-## <a name="commit-messages"></a> How to write git commit messages
+## <a name="commit-messages"></a> How to write commit messages
 Will be added whenever I get the time.
 
 ## <a name="rules"></a> Coding rules
