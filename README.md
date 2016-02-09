@@ -1,8 +1,10 @@
 # Contribution guidelines
+- [How to write git commit messages](#commit-messages)
+- [Coding rules](#rules)
 
-##### How to write git commit messages
+##### <a name="commit-messages"></a> How to write git commit messages
 Will be added whenever I get the time.
 
-##### Programming language style guides
-Will be added whenever we have decided on which languages to use.
+##### <a name="rules"></a> Coding rules
+Will be added whenever we have decided on some general rules and style guides.
 
