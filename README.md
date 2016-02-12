@@ -11,7 +11,7 @@ Will be added whenever I get the time.
 Will be added whenever we have decided on some general rules and style guides.
 
 ### Python
-[PEP8](https://www.python.org/dev/peps/pep-0008/) (Using flake8)
+[PEP8](https://www.python.org/dev/peps/pep-0008/) (Using flake8)  
 [Sorted imports](https://pypi.python.org/pypi/isort) (using isort)
 
 ## Licenses
