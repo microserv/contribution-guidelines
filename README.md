@@ -1,7 +1,7 @@
 # Contribution guidelines
 - [How to write commit messages](#commit-messages)
-  * [content](#content)
-  * [formatting](#formatting)
+  * [Content](#content)
+  * [Formatting](#formatting)
 - [Coding rules](#rules)
   * [Python](#python)
 - [Licenses](#licenses)
